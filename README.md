@@ -11,3 +11,6 @@
 
 ## Git Add
 `git add` is used to stage the all the file for commit to your local repository by the following command.
+
+## Git Branch
+`git branch` is used to see list of available branch on local repository
