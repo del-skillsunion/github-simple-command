@@ -1,1 +1,1 @@
-# github-simple-command
+# Github Simple Command
